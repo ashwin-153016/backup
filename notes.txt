@@ -1,0 +1,8 @@
+3 entities
+
+Acc types (pre populated  )
+Cust master (pre populated bank id, name, addr, currr amt)
+Master acc
+
+Transaction (not pre populated)[ withdraw/deposit] put it in a map
+After transaction update Cust Master.
