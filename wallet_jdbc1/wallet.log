@@ -1,0 +1,29 @@
+2018-07-13-main-ERROR-root      :ORA-00001: unique constraint (SYSTEM.SYS_C007119) violated
+
+2018-07-13-main-ERROR-root      :ORA-00001: unique constraint (SYSTEM.SYS_C007119) violated
+
+2018-07-13-main-ERROR-root      :ORA-00001: unique constraint (SYSTEM.SYS_C007119) violated
+
+2018-07-13-main-ERROR-root      :Insertion failed 
+2018-07-13-main-INFO -root      :Customer details added successfully:
+2018-07-13-main-ERROR-root      :ORA-02291: integrity constraint (SYSTEM.SYS_C007142) violated - parent key not found
+
+2018-07-13-main-INFO -root      :Customer details added successfully:
+2018-07-13-main-ERROR-root      :ORA-02291: integrity constraint (SYSTEM.SYS_C007142) violated - parent key not found
+
+2018-07-13-main-INFO -root      :Customer details added successfully:
+2018-07-13-main-ERROR-root      :ORA-02291: integrity constraint (SYSTEM.SYS_C007142) violated - parent key not found
+
+2018-07-13-main-INFO -root      :Balance got successfully:
+2018-07-13-main-INFO -root      :Customer details added successfully:
+2018-07-13-main-ERROR-root      :ORA-02291: integrity constraint (SYSTEM.SYS_C007142) violated - parent key not found
+
+2018-07-13-main-INFO -root      :Customer details added successfully:
+2018-07-13-main-ERROR-root      :ORA-02291: integrity constraint (SYSTEM.SYS_C007142) violated - parent key not found
+
+2018-07-13-main-INFO -root      :Balance got successfully:
+2018-07-13-main-INFO -root      :Transaction details added successfully:
+2018-07-13-main-INFO -root      :Transaction details added successfully:
+2018-07-13-main-ERROR-root      :ORA-02291: integrity constraint (SYSTEM.SYS_C007142) violated - parent key not found
+
+2018-07-13-main-INFO -root      :Balance got successfully:
